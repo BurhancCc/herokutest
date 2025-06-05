@@ -1,0 +1,12 @@
+fastapi
+io
+torch
+PIL
+torchvision
+torch
+base64
+streamlit
+requests
+ultralytics
+numpy
+os
