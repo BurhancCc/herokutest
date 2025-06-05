@@ -1,5 +1,4 @@
 fastapi
-io
 torch
 PIL
 torchvision
