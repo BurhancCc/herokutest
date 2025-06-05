@@ -4,7 +4,6 @@ requests
 fastapi
 fastapi[standard]
 pydantic
-typing
 json
 pathlib
 shutil
