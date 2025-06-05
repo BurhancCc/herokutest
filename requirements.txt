@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+fastapi
+pydantic
+typing
+json
+pathlib
+shutil
+tempfile
+cv2
+numpy
+easyocr
+ultralytics
