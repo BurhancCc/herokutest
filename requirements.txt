@@ -1,6 +1,5 @@
 fastapi
 torch
-PIL
 torchvision
 torch
 base64
