@@ -2,6 +2,7 @@ streamlit
 pandas
 requests
 fastapi
+"fastapi[standard]"
 pydantic
 typing
 json
