@@ -6,7 +6,6 @@ fastapi[standard]
 pydantic
 typing
 pathlib
-tempfile
 cv2
 numpy
 easyocr
