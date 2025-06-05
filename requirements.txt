@@ -7,5 +7,4 @@ pydantic
 typing
 pathlib
 numpy
-easyocr
 ultralytics
