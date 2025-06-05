@@ -1,8 +1,0 @@
-fastapi
-torch
-torchvision
-torch
-streamlit
-requests
-ultralytics
-numpy
