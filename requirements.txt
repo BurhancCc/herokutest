@@ -6,7 +6,6 @@ fastapi[standard]
 pydantic
 typing
 pathlib
-cv2
 numpy
 easyocr
 ultralytics
