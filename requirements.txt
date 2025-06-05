@@ -6,7 +6,6 @@ fastapi[standard]
 pydantic
 typing
 pathlib
-shutil
 tempfile
 cv2
 numpy
